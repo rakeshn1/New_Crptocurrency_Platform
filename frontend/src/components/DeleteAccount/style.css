@@ -1,0 +1,24 @@
+h3 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.deletebtn {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
+
+#confirmBtn {
+  background-color: rgb(218, 13, 13) !important;
+}
+
+div.modal-header {
+  justify-content: center;
+}

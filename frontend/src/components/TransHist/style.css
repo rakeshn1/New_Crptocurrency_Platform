@@ -1,0 +1,55 @@
+i {
+    color: rgb(53, 53, 53);
+}
+
+.active {
+    color: whitesmoke;
+}
+
+/* Page Indicator */
+.page-link {
+    background-color: rgb(53, 53, 53) !important;
+    border-color: rgb(53, 53, 53) !important;
+    /* color: whatever color */
+}
+
+.page-link:hover {
+    background-color: white;
+}
+
+/* Change class name of other buttons on the page. Tables buttons have set classes that can not be altered. */
+.btn {
+    background-color: rgb(53, 53, 53) !important;
+    border-color: rgb(217, 217, 217) !important;
+    /* color: whatever; */
+}
+
+
+
+th {
+    background: rgb(217, 217, 217);
+    color: rgb(53, 53, 53);
+}
+
+td {
+    background: rgb(255, 255, 255);
+    color: rgb(53, 53, 53);
+}
+
+.expand-cell {
+    background: rgb(217, 217, 217);
+    color: rgb(53, 53, 53);
+}
+
+.reset-expansion-style {
+    background-color: rgb(217, 217, 217);
+    color: rgb(53, 53, 53);
+}
+
+.tableSize {
+    margin-bottom: 100px;
+}
+
+.buttonSize {
+    margin-bottom: 112px;
+}
